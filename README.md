@@ -1,1 +1,1 @@
-# smart-contracts-v1
+# obridge-smart-contracts
